@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Charmpython's Blog! 
 
-You can use the [editor on GitHub](https://github.com/charmpython/charmpython.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thanks for coming! Here you'll find a few little stories about some of the big learning experiences I've had. These experiences were so powerful I had to cope somehow, so I drew them out as comics.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me 
 
-### Markdown
+My two main goals in the workplace are: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. To remain curious
+2. To be a hard worker 
 
-```markdown
-Syntax highlighted code block
+Both of these have led me to some interesting, if not linear, places. 
 
-# Header 1
-## Header 2
-### Header 3
+### Why did I post this journey? 
 
-- Bulleted
-- List
+This blog is a celebration of all of the help I've gotten along the way. THe best helpers do so without expectation of reward, but great mentors deserve rewards and awards because of the multiplier effect of their actions.
 
-1. Numbered
-2. List
+Also, success can come in many forms. It doesn't always have to rock your world. Sometimes it can be quiet, like the triumph that comes with understanding something challenging. This journey has been marked with many quiet triumphs. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/charmpython/charmpython.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Enjoy! 
