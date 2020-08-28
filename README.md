@@ -17,4 +17,6 @@ This blog is a celebration of all of the help I've gotten along the way. The bes
 
 Also, success can come in many forms. It doesn't always have to rock your world. Sometimes it can be quiet, like the triumph that comes with understanding something challenging. This journey has been marked with many quiet triumphs. 
 
+It's also marked by many seemingly insurmountable challenges. You'll see. But I've learned that if you've set a goal for yourself, given enough time and some great help, you won't even notice that you've been chipping away at the challenge little by little... Until your review your earliest comics! 
+
 ### Enjoy! 
